@@ -6,7 +6,7 @@ import plotly.express as px
 
 # Set page config (title, icon)
 st.set_page_config(
-    page_title="Zakatify",
+    page_title="ZakatFlow",
     page_icon="🕌",  # or give a custom image URL here if you want
     layout="centered"
 )
@@ -15,11 +15,11 @@ st.set_page_config(
 st.markdown(
     """
     <div style='text-align: left;'>
-        <h1 style='font-size: 36px; margin-bottom: 5px;'>Zakatify - created by Usman Zafar</h1>
+        <h1 style='font-size: 36px; margin-bottom: 5px;'>ZakatFlow - created by Usman Zafar</h1>
         <h4 style='color: gray; margin-top: 0px;'>Automated Zakat Computation System</h4>
         <p style='font-size: 16px;'>
             Easily calculate your Zakat obligations based on your total wealth, gold, silver, investments, and liabilities. 
-            Zakatify helps you determine if you meet the Nisab threshold and how much Zakat you owe — all using the latest currency rates.
+            ZakatFlow helps you determine if you meet the Nisab threshold and how much Zakat you owe — all using the latest currency rates.
         </p>
        
     </div>
