@@ -1,6 +1,6 @@
 # ZakatFlow - Automated Zakat Computation System
 
-Zakatify is a web app built to help individuals easily calculate their Zakat obligations based on their total wealth, gold, silver, investments, and liabilities. It helps users determine whether they meet the Nisab threshold and calculates how much Zakat they owe, all using the latest currency exchange rates.
+ZakatFlow is a web app built to help individuals easily calculate their Zakat obligations based on their total wealth, gold, silver, investments, and liabilities. It helps users determine whether they meet the Nisab threshold and calculates how much Zakat they owe, all using the latest currency exchange rates.
 
 ## Features
 
@@ -36,8 +36,8 @@ You can access the live demo of this app here: https://zakatflow.streamlit.app/
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/syed-muhammad-usman-zafar/Zakatify.git
-    cd Zakatify
+    git clone https://github.com/syed-muhammad-usman-zafar/ZakatFlow.git
+    cd ZakatFlow
     ```
 
 2. Install the required dependencies:
