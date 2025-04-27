@@ -22,7 +22,7 @@ Zakatify is a web app built to help individuals easily calculate their Zakat obl
 
 ## App Demo
 
-You can access the live demo of this app here: https://zakatify.streamlit.app/
+You can access the live demo of this app here: https://zakatflow.streamlit.app/
 
 ## Tech Stack
 
