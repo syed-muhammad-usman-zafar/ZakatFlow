@@ -66,7 +66,6 @@ receivables = st.number_input("Money owed to you", min_value=0.0)
 debts = st.number_input("Debts and liabilities", min_value=0.0)
 
 st.header("Current Precious Metal Prices:")
-
 gold_price = st.number_input("Current gold price per gram in PKR", min_value=0.0)
 silver_price = st.number_input("Current silver price per gram in PKR", min_value=0.0)
 
